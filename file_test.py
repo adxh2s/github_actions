@@ -24,4 +24,3 @@ def test_coucou():
     output = 'hello'
     assert output == 'hello'
 
-
