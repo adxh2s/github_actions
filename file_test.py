@@ -23,4 +23,3 @@ def test_coucou():
     """Test si le résultat renvoie 'hello'"""
     output = 'hello'
     assert output == 'hello'
-
